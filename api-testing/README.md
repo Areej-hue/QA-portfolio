@@ -1,6 +1,6 @@
 API testing practice using Postman and public APIs.
 
-## API Testing – Downloader App (Learning Project)
+## API Testing – Downloader App
 
 This project demonstrates API testing concepts using a public API to simulate
 a mobile video downloader application.
