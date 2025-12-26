@@ -13,6 +13,4 @@ a mobile video downloader application.
 
 ### Tools
 - Postman
-- Public API (DummyJSON)
-
-Note: This is a learning-based project focused on API testing fundamentals.
+- Public API (DummyJSon)
